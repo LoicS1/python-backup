@@ -1,0 +1,134 @@
+# IPython log file
+
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.2.log
+f(12)
+pwd
+#[Out]# u'/home/ubuntu/workspace'
+cd 1.3.4
+%run Scomparin_1.3.4.py
+f(12)
+%run Scomparin_1.3.4.py
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# True
+f_test()
+#[Out]# True
+%logstop
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+cd
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.4
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.3
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.4
+f_test()
+#[Out]# True
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+%logstart
+pwd
+#[Out]# u'/home/ubuntu'
+cd /home/ubuntu/workspace/1.3.4
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+cd 1.3.4
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+%logstart
+%logstart -ort logs/Scomparin_1.3.4.3.log
+%run Scomparin_1.3.4.py
+guess_once()
+%run Scomparin_1.3.4.py
+guess_once()
+%run Scomparin_1.3.4.py
+guess_once()
+guess_once()
+%run Scomparin_1.3.4.py
+def quiz_decimal(5.0, 5.6)
+quiz_decimal(5.0, 5.6)
+%run Scomparin_1.3.4.py
+quiz_decimal(5.0, 5.6)
+quiz_decimal(5.0, 5.6)
+quiz_decimal(5.0, 5.6)
+%run Scomparin_1.3.4.py
+quiz_decimal(5.0, 5.6)
+quiz_decimal(5.0, 5.6)
+quiz_decimal(5.0, 5.6)
+%run Scomparin_1.3.4.py
+def f_test()
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# True
+%run Scomparin_1.3.4.py
+f(6)
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# True
+%run Scomparin_1.3.4.py
+int_f(5)
+int_(4.3)
+int_f(4.3)
+%run Scomparin_1.3.4.py
+int_f(3)
+even_f(3)
+even_f(4)
+odd_f(9)
+odd_f(8)
+%run Scomparin_1.3.4.py
+divisible_by_6_f(24)
+divisible_by_6_f(25)
+%logstop
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+# Mon, 17 Dec 2018 07:20:37
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 07:20:46
+f_challenge(3)
+# Mon, 17 Dec 2018 07:21:59
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 07:22:07
+f_challenge(4)
+# Mon, 17 Dec 2018 07:22:19
+f_challenge(4.0)
+# Mon, 17 Dec 2018 07:22:49
+f_challenge(4.3)
+# Mon, 17 Dec 2018 07:24:03
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 07:27:33
+%logstop

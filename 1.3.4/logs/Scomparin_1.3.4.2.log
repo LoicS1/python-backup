@@ -1,0 +1,35 @@
+# IPython log file
+
+# Sun, 16 Dec 2018 03:58:39
+f(12)
+# Sun, 16 Dec 2018 03:59:28
+pwd
+#[Out]# u'/home/ubuntu/workspace'
+# Sun, 16 Dec 2018 03:59:43
+cd 1.3.4
+# Sun, 16 Dec 2018 03:59:53
+%run Scomparin_1.3.4.py
+# Sun, 16 Dec 2018 03:59:57
+f(12)
+# Sun, 16 Dec 2018 04:18:07
+%run Scomparin_1.3.4.py
+# Sun, 16 Dec 2018 04:24:36
+%run Scomparin_1.3.4.py
+# Sun, 16 Dec 2018 04:25:00
+f_test()
+#[Out]# False
+# Sun, 16 Dec 2018 05:37:11
+%run Scomparin_1.3.4.py
+# Sun, 16 Dec 2018 05:37:16
+f_test()
+#[Out]# False
+# Sun, 16 Dec 2018 05:38:44
+%run Scomparin_1.3.4.py
+# Sun, 16 Dec 2018 05:38:50
+f_test()
+#[Out]# True
+# Sun, 16 Dec 2018 05:41:50
+f_test()
+#[Out]# True
+# Sun, 16 Dec 2018 05:43:09
+%logstop

@@ -1,0 +1,62 @@
+# IPython log file
+
+get_ipython().magic(u'logstart -ort 1.3.3/logs/Scomparin_1.3.3.3.long')
+get_ipython().magic(u'run 1.3.3/Scomparin_1.3.3.py')
+hint(red, secret)
+hint(red, secret)
+get_ipython().magic(u'run 1.3.3/Scomparin_1.3.3.py')
+hint(red, secret)
+hint(color, secret)
+secret = ['red','red','yellow','yellow','black']
+hint('red", secret)
+secret = ['red','red','yellow','yellow','black']
+secret = ['red','red','yellow','yellow','black']
+hint('red', secret)
+hint('orange', secret)
+get_ipython().magic(u'run 1.3.3/Scomparin_1.3.3.py')
+secret = ['red','red','yellow','yellow','black']
+hint('red', secret)
+get_ipython().magic(u'run 1.3.3/Scomparin_1.3.3.py')
+secret = ['red','red','yellow','yellow','black']
+hint('red', secret)
+# the if block is only ran if the statement inside it is true. If it is, the else block is skipped over. If not, then the code within the else block is ran. When there are more than two outcomes, elif is used to cover all the all the other outcomes
+# the operators that create Boolean expressions that we already know of are <, <=, <, >=, ==, among others. Another operator is ^, the exclusive or. This returns true only if one side is false and one side is true.
+# all students are right that the code should be moved up as long as it is in the function. Both Kendra and Jayla have valid reasons for their claim, as the code is redudant and takes up memory. Ira is wrong that it will take lontake longer because only the if or else statements will be executed, but not both
+get_ipython().magic(u'run 1.3.3/Scomparin_1.3.3.py')
+# see above for result. I think the code is correct because all the statements make sense in relation to one another.
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'pwd ')
+get_ipython().magic(u'cd 1.3.4')
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+food_id('apple')
+# The code from line 17 was executed 
+get_ipython().magic(u'logstart -ort 1.3.3/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart -ort 1.3.4/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart -ort 1.3.4/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart -ort 1.3.4/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart -ort 1.3.2/logs/Last_1.3.2.#.log')
+get_ipython().magic(u'logstart -ort 1.3.2/logs/Last_1.3.2.#.log')
+get_ipython().magic(u'logstart')
+get_ipython().magic(u'cd 1.3.4')
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+get_ipython().magic(u'logstart -ort 1.3.4/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart')
+get_ipython().magic(u'pwd ')
+get_ipython().magic(u'logstart')
+get_ipython().magic(u'logstart -ort 1.3.4/logs/Scomparin_1.3.4.1.log')
+get_ipython().magic(u'logstart 1.3.4')
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'logstart Scomparin_1.3.4.1.log')
+# bi. the input 'orange' will cause this line to be activated
+# bii. any of the items in the fruit list will return this
+# biii. a starchy food (banana or potato) will cause this
+# biv. a food item not listed at all above will cause this
+1a. food_id('apple')
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+food_id_test()
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+f(12)
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+f(12)
+get_ipython().magic(u'run Scomparin_1.3.4.py')
+f(12)

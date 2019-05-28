@@ -1,0 +1,168 @@
+# IPython log file
+
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.2.log
+f(12)
+pwd
+#[Out]# u'/home/ubuntu/workspace'
+cd 1.3.4
+%run Scomparin_1.3.4.py
+f(12)
+%run Scomparin_1.3.4.py
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# False
+%run Scomparin_1.3.4.py
+f_test()
+#[Out]# True
+f_test()
+#[Out]# True
+%logstop
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+cd
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.4
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.3
+pwd
+#[Out]# u'/home/ubuntu'
+cd 1.3.4
+f_test()
+#[Out]# True
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+%logstart
+pwd
+#[Out]# u'/home/ubuntu'
+cd /home/ubuntu/workspace/1.3.4
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+cd 1.3.4
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+pwd
+#[Out]# u'/home/ubuntu/workspace/1.3.4'
+%logstart -ort 1.3.4/logs/Scomparin_1.3.4.3.log
+%logstart
+# Mon, 17 Dec 2018 03:40:41
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 03:40:43
+guess_once()
+# Mon, 17 Dec 2018 05:55:30
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 05:55:33
+guess_once()
+# Mon, 17 Dec 2018 05:57:36
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 05:57:47
+guess_once()
+# Mon, 17 Dec 2018 05:58:04
+guess_once()
+# Mon, 17 Dec 2018 06:14:08
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:14:28
+def quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:14:41
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:15:24
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:15:39
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:16:30
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:17:09
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:19:43
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:19:51
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:20:09
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:20:21
+quiz_decimal(5.0, 5.6)
+# Mon, 17 Dec 2018 06:33:46
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:33:52
+def f_test()
+# Mon, 17 Dec 2018 06:33:59
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:34:55
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:34:58
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:36:17
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:36:20
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:37:09
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:37:15
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:39:13
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:39:18
+f_test()
+#[Out]# True
+# Mon, 17 Dec 2018 06:40:31
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:40:37
+f(6)
+# Mon, 17 Dec 2018 06:42:59
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:43:37
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:43:41
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:44:49
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:44:52
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:45:21
+f_test()
+#[Out]# False
+# Mon, 17 Dec 2018 06:45:29
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:45:33
+f_test()
+#[Out]# True
+# Mon, 17 Dec 2018 06:54:42
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 06:54:50
+int_f(5)
+# Mon, 17 Dec 2018 06:54:56
+int_(4.3)
+# Mon, 17 Dec 2018 06:55:04
+int_f(4.3)
+# Mon, 17 Dec 2018 07:02:07
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 07:02:13
+int_f(3)
+# Mon, 17 Dec 2018 07:02:24
+even_f(3)
+# Mon, 17 Dec 2018 07:02:30
+even_f(4)
+# Mon, 17 Dec 2018 07:02:36
+odd_f(9)
+# Mon, 17 Dec 2018 07:02:43
+odd_f(8)
+# Mon, 17 Dec 2018 07:05:34
+%run Scomparin_1.3.4.py
+# Mon, 17 Dec 2018 07:05:46
+divisible_by_6_f(24)
+# Mon, 17 Dec 2018 07:06:10
+divisible_by_6_f(25)
+# Mon, 17 Dec 2018 07:09:13
+%logstop
